@@ -66,7 +66,6 @@ Confusion Matrix (Resampled):
 
 Classification Report (Resampled):
 
-Copy code
               precision    recall  f1-score   support
 
            0       1.00      0.99      1.00     15001
