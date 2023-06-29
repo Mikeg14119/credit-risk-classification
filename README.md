@@ -6,10 +6,13 @@ Overview
 The purpose of this credit risk analysis is to develop a machine learning model that can effectively predict the risk of loan default. The analysis utilizes a logistic regression model to classify loans into two categories: healthy loans (0) and high-risk loans (1). By accurately identifying high-risk loans, financial institutions can make informed decisions and manage their credit risk effectively.
 
 Results
+
 The machine learning model was evaluated using various performance metrics to assess its effectiveness in predicting loan risk. The following results were obtained:
 
 Accuracy: 0.952
+
 Precision (0): 0.995
+
 Precision (1): 0.860
 Recall (0): 0.995
 Recall (1): 0.910
